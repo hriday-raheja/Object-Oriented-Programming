@@ -1,34 +1,34 @@
-# OOP Basics – Classes and Objects (C++)
+# Object Oriented Programming Programs (CS305)
 
-This folder contains beginner-level Object Oriented Programming (OOP) programs written in C++. These programs demonstrate the fundamental concepts of **classes, objects, attributes, and methods** through simple and real-world based examples.
+This repository contains a structured collection of Object Oriented Programming programs developed as part of the **CS305 – Object Oriented Programming & Methodology** course. The aim of this repository is to implement OOP concepts through practical, well-organised, and menu-driven programs.
 
-These programs are aligned with the **CS305 – Object Oriented Programming & Methodology** syllabus and are part of a daily practice series.
+All programs are written in **C++** and are organised topic-wise according to the syllabus.
 
-## 📌 Programs Included
+## 📚 Topics Covered
 
-| Program Name | Description |
-|-------------|-------------|
-| Student Details (Class)       | Demonstrates how a class is defined and how object data members store student information.
-| Multiple Objects              | Shows how multiple objects can be created from a single class.
-| Calculator (Methods in Class) | Implements arithmetic operations using class methods.
-| Bank Account (Object Model)   | Models a real-world bank account using a class and objects. 
-| Menu Driven Bank              | A menu-based program implementing banking operations using class and methods.
+- Object Oriented Thinking  
+- Classes and Objects  
+- Encapsulation and Data Abstraction  
+- Inheritance and Relationships  
+- Polymorphism  
+- Strings  
+- Exception Handling  
+- Multithreading  
+- Data Collections  
+- Case Studies (ATM, Library Management, etc.)
 
-## 🧠 OOP Concepts Covered
+## 📂 Repository Structure
 
-- Class and Object  
-- Data Members  
-- Member Functions  
-- Object Creation  
-- Message Passing  
-- Basic Encapsulation
+Each folder contains:
+- Topic-based programs
+- A README explaining the programs
 
 ## 🎯 Purpose
 
-These programs are created to strengthen understanding of **Object Oriented Thinking** by applying concepts to practical, menu-driven and real-world style programs. They serve as a foundation for advanced OOP concepts like inheritance and polymorphism.
+This repository is created to strengthen the understanding of **Object Oriented Programming** by implementing theoretical concepts in practical code. It also serves as a reference for students preparing for labs, exams, and interviews.
 
 
-## 👤 Author  
-Hriday  
+## 👤 Author
 
-
+Hriday Raheja 
+B.Tech Computer Science  
