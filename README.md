@@ -1,4 +1,4 @@
-# Object Oriented Programming Programs (CS305)
+# Object Oriented Programming Programs
 
 This repository contains a structured collection of Object Oriented Programming programs developed as part of the **CS305 – Object Oriented Programming & Methodology** course. The aim of this repository is to implement OOP concepts through practical, well-organised, and menu-driven programs.
 
