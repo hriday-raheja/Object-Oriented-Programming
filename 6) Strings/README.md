@@ -2,6 +2,8 @@
 
 This folder contains C++ programs focused on **string manipulation** and **expression evaluation**. These programs demonstrate common string operations and logical processing techniques frequently used in programming and interviews.
 
+These programs are aligned with the **CS305 – Object Oriented Programming & Methodology** syllabus and are part of a daily practice series.
+
 ---
 
 ## 📌 Programs Included
