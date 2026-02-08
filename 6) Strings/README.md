@@ -39,6 +39,3 @@ These programs strengthen the understanding of **string processing** and **expre
 
 ## 👤 Author  
 Hriday Raheja
-
-3. Compile using:
-
