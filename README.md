@@ -2,7 +2,7 @@
 
 This repository contains a structured collection of Object Oriented Programming programs developed as part of the **CS305 – Object Oriented Programming & Methodology** course. The aim of this repository is to implement OOP concepts through practical, well-organised, and menu-driven programs.
 
-All programs are written in **C++** and are organised topic-wise according to the syllabus.
+These programs are aligned with the **CS305 – Object Oriented Programming & Methodology** syllabus and are part of a daily practice series.
 
 ## 📚 Topics Covered
 
