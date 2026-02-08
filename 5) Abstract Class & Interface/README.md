@@ -3,6 +3,7 @@
 This folder contains Object Oriented Programming programs written in C++ that demonstrate the concepts of **abstract classes** and **interfaces**. These concepts help in achieving abstraction and defining contracts for derived classes.
 
 These programs are aligned with the **CS305 – Object Oriented Programming & Methodology** syllabus and are part of a daily practice series.
+
 ---
 
 ## 📌 Programs Included
