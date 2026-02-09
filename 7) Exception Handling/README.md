@@ -2,6 +2,8 @@
 
 This folder contains C++ programs that demonstrate **exception handling**, which is used to detect and manage runtime errors in a safe and controlled way. These examples show how programs can continue execution gracefully even when unexpected situations occur.
 
+These programs are aligned with the **CS305 – Object Oriented Programming & Methodology** syllabus and are part of a daily practice series.
+
 ---
 
 ## 📌 Programs Included
